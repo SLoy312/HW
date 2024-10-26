@@ -13,4 +13,6 @@ def david_function(n):
 
 for i in range(4):
     david_function(random.randint(1,10))
-    print(david_function(random.randint(1,10)))
+    
+
+print(david_function(random.randint(1,10)))
